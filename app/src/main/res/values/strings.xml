@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">application2</string>
+
+    <string name="hello_world">How are you friends!</string>
+    <string name="tombol_terjemah">Terjemahkan</string>
+    <string name="apakabar_sobat">apa kabar sobat!</string>
+    <string name="action_settings">Settings</string>
+</resources>
